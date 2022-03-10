@@ -32,5 +32,5 @@
 
 ![output_3_1](https://github.com/Prosto-Fil/ITIB_1/blob/main/itib_1/output_3_1.png)
 ![output_3_2](https://github.com/Prosto-Fil/ITIB_1/blob/main/itib_1/output_3_2.png)
-![output_3_1](https://github.com/Prosto-Fil/ITIB_1/blob/main/itib_1/output_3_1.png)
-![output_3_2](https://github.com/Prosto-Fil/ITIB_1/blob/main/itib_1/output_3_2.png)
+![output_3_1](https://github.com/Prosto-Fil/ITIB_1/blob/main/itib_1/graph_3_1.png)
+![output_3_2](https://github.com/Prosto-Fil/ITIB_1/blob/main/itib_1/graph_3_2.png)
